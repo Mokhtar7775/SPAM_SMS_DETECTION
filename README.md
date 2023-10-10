@@ -6,7 +6,7 @@ This project focuses on building a machine learning model for classifying SMS me
 
 ## Dataset
 
-The dataset used for training and evaluating the model is sourced from [https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset]. It contains labeled examples of SMS messages, where each message is categorized as spam or ham.
+The dataset used for training and evaluating the model is  It contains labeled examples of SMS messages, where each message is categorized as spam or ham.
 
 ## Technologies Used
 
