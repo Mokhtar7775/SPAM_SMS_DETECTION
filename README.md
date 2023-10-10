@@ -52,15 +52,3 @@ To run the project locally, follow these steps:
     ```bash
     python main.py
     ```
-
-## Future Improvements
-
-- Fine-tuning the model and experimenting with different classifiers.
-- Exploring advanced NLP techniques and embeddings for feature extraction.
-- Handling imbalanced datasets for better performance on rare classes.
-
-Feel free to contribute and enhance the project!
-
----
-
-Make sure to replace placeholders like `[provide the source or origin of your dataset]` with the actual information. Also, consider updating the README as your project evolves.
