@@ -31,24 +31,3 @@ The dataset used for training and evaluating the model is spam.csv It contains l
 
 6. **Example Usage:** The model is demonstrated by predicting the spam/legitimate status of new SMS messages.
 
-## Usage
-
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/sms-spam-classification.git
-    ```
-
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the main script:
-
-    ```bash
-    python main.py
-    ```
